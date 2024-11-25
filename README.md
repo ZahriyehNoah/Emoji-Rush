@@ -2,6 +2,8 @@
 
 Emoji Rush is a web based interactive game or generator from ideas like food, places, hobbies, reminders or notes with few words instead of long wall of texts. You can download your emojis so you can use and enjoy it when needed.
 
+![CleanShot_2023-10-03_at_14](https://github.com/user-attachments/assets/5b4f9c85-a438-4c5c-bc07-2738c4d719d4)
+
 use emojis to express your feelings about a tab, like adding a poop emoji to a boring assignment or a flower emoji to a tab with ideas for your balcony
 
 Emoji Rush is an engaging web-based interactive game that draws inspiration from various themes, including food places and hobbies. Here’s a brief overview of what you can expect from the game:
